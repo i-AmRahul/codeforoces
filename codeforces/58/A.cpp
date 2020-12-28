@@ -31,6 +31,7 @@ int main()
     string fin = "hello";
 
     int x = 0;
+    int y = 0;
 
     
     for(int i = 0; i < s.length();i++)
@@ -38,9 +39,10 @@ int main()
         if(s[i] == fin[x])
         {
             x++;
+            y++;
         }
     }
-    if(x==5)
+    if(y==5)
     {
         cout << "YES" << endl;
     }
