@@ -1,4 +1,20 @@
 {
+  "CF103388308": {
+    "contest_id": 208,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/208/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dubstep",
+    "problem_url": "https://codeforces.com/contest/208/problem/A",
+    "submission_id": "CF103388308",
+    "submission_url": "https://codeforces.com/contest/208/submission/103388308",
+    "tags": [
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Jan/05/2021 19:32"
+  },
   "CF103434224": {
     "contest_id": 1471,
     "language": "GNU C++17 (64)",
