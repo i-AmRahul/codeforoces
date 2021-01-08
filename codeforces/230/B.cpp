@@ -26,12 +26,12 @@ bool isPerfectSquare(long double n)
   return ((sr - floor(sr)) == 0); 
 } 
 
-bool isPrime[1000001];
+bool isPrime[10000001];
 
 void sieve()
 {
     //true means composite number.
-    long long N = 1000000;
+    long long N = 10000000;
 
     isPrime[0] = true;
     isPrime[1] = true;
