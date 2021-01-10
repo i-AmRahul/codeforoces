@@ -1,4 +1,23 @@
 {
+  "CF103931978": {
+    "contest_id": 1389,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1389/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "LCM Problem",
+    "problem_url": "https://codeforces.com/contest/1389/problem/A",
+    "submission_id": "CF103931978",
+    "submission_url": "https://codeforces.com/contest/1389/submission/103931978",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Jan/10/2021 11:28"
+  },
   "CF103937173": {
     "contest_id": 742,
     "language": "GNU C++17 (64)",
