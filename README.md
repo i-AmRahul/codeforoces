@@ -5,10 +5,11 @@ Submissions
 ## Introduction
 
 A repository to keep track of problem solving practice, containing solutions from platforms:
-{profile_placeholder}
+* Codeforces &nbsp; [![Codeforces](https://run.kaist.ac.kr/badges/codeforces/iamrahul.svg)](https://codeforces.com/profile/iamrahul)
+
 
 ## Contents
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-{submission_placeholder}
+1 | [A - Counterexample ](https://codeforces.com/contest/483/problem/A) | [GNU C++17 (64)](./codeforces/483/A.cpp) | `brute force` `implementation` `math` `number theory` `*1100` | Jan/15/2021 22:20 | 
