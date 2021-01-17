@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-48 | [A - Almost Prime](https://codeforces.com/contest/26/problem/A) | [GNU C++17](./codeforces/26/A.cpp) | `number theory` `*900` | Jan/17/2021 22:51 | 
-47 | [A - PolandBall and Hypothesis](https://codeforces.com/contest/755/problem/A) | [GNU C++17](./codeforces/755/A.cpp) | `brute force` `graphs` `math` `number theory` `*800` | Jan/17/2021 22:13 | 
+49 | [A - Almost Prime](https://codeforces.com/contest/26/problem/A) | [GNU C++17](./codeforces/26/A.cpp) | `number theory` `*900` | Jan/17/2021 22:51 | 
+48 | [A - PolandBall and Hypothesis](https://codeforces.com/contest/755/problem/A) | [GNU C++17](./codeforces/755/A.cpp) | `brute force` `graphs` `math` `number theory` `*800` | Jan/17/2021 22:13 | 
+47 | [A - Hexadecimal's theorem](https://codeforces.com/contest/199/problem/A) | [GNU C++17](./codeforces/199/A.cpp) | `brute force` `constructive algorithms` `implementation` `number theory` `*900` | Jan/17/2021 21:53 | 
 46 | [A - Counterexample ](https://codeforces.com/contest/483/problem/A) | [GNU C++17 (64)](./codeforces/483/A.cpp) | `brute force` `implementation` `math` `number theory` `*1100` | Jan/15/2021 22:20 | 
 45 | [C - A and B and Team Training](https://codeforces.com/contest/519/problem/C) | [GNU C++17 (64)](./codeforces/519/C.cpp) | `greedy` `implementation` `math` `number theory` `*1300` | Jan/15/2021 21:45 | 
 44 | [C - Mere Array](https://codeforces.com/contest/1401/problem/C) | [GNU C++17 (64)](./codeforces/1401/C.cpp) | `constructive algorithms` `math` `number theory` `sortings` `*1300` | Jan/11/2021 22:23 | 
