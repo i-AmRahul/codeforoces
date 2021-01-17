@@ -751,6 +751,24 @@
     ],
     "timestamp": "Jan/15/2021 22:20"
   },
+  "CF104594146": {
+    "contest_id": 787,
+    "language": "Python 3",
+    "path": "codeforces/787/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The Monster",
+    "problem_url": "https://codeforces.com/contest/787/problem/A",
+    "submission_id": "CF104594146",
+    "submission_url": "https://codeforces.com/contest/787/submission/104594146",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "*1200"
+    ],
+    "timestamp": "Jan/17/2021 20:04"
+  },
   "CF104594464": {
     "contest_id": 1143,
     "language": "Python 3",
