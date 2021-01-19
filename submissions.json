@@ -964,6 +964,22 @@
     ],
     "timestamp": "Jan/18/2021 22:20"
   },
+  "CF104794055": {
+    "contest_id": 1474,
+    "language": "GNU C++17",
+    "path": "codeforces/1474/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Puzzle From the Future",
+    "problem_url": "https://codeforces.com/contest/1474/problem/A",
+    "submission_id": "CF104794055",
+    "submission_url": "https://codeforces.com/contest/1474/submission/104794055",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Jan/19/2021 20:36"
+  },
   "CF104924435": {
     "contest_id": 1305,
     "language": "GNU C++17",
